@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 900px;
+    background-color: #9f9f9fdd;
+    text-align: justify;
+   
+}
+article#introducao p {
+    text-indent: 50px;
+}
+div#corpo {
+    background-color: white;
+    width: 1200px;
+    margin: 30px 100px 30px 100px;
+    padding: 50px;
+    position: relative;
+}
+header {
+    text-align: center;
+    border-bottom: 1px #9f9f9fdd solid;
+
+}
+header p {
+    font-style: italic;
+}
+article#introducao { 
+    border-bottom: 1px #9f9f9fdd solid;
+    padding: 25px 0;
+    margin: 25px 0;
+}
+div.citacao {
+    background-color: #9f9f9fdd;
+    font-size: 20pt;
+    text-align: center;
+    padding: 10px;
+    margin: 10px auto 10px auto;
+}
+div.citacao p {
+    text-align: right;
+    font-size: 15pt;
+}
+article#curiosidades {
+    padding: 25px 0;
+    margin: 25px 0;
+}
+article#curiosidades li{
+    height: 30px;
+}
+div#div-footer {
+    text-align: center;
+    border-top: 1px #9f9f9fdd solid;
+    padding: 25px 0;
+    margin: 25px 0;
+}
+div#div-footer p {
+    font-weight: bold;
+    margin-top: -15px;
+}
